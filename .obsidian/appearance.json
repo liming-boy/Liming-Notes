@@ -1,0 +1,8 @@
+{
+  "accentColor": "#008f18",
+  "nativeMenus": true,
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 16
+}
